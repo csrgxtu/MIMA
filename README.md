@@ -4,5 +4,4 @@
 逻辑图
 
 
-client --> gateway --> services
-           sniffer
+client --> gateway(sniffer) --> services
